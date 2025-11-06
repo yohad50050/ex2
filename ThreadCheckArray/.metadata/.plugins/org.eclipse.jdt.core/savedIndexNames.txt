@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Users\yohad\OneDrive\Desktop\workspace\tirgul_project\ThreadCheckArray\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
