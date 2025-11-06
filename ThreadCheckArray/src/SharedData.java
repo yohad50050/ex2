@@ -4,8 +4,8 @@ public class SharedData
 	private boolean [] winArray;
 	private boolean flag;
 	private final int b;
-	//jhkjlhkhfdfdfjkldnfjfg
-	//sdfsdfsdfsd
+
+	
 	public SharedData(int[] array, int b) {
 		
 		this.array = array;
